@@ -8,3 +8,4 @@
 
 1. [生成模型與文字探勘：利用 LDA 建立文件主題模型](https://taweihuang.hpd.io/2019/01/10/topic-modeling-lda/)
 
+1. [【辛普森家庭】影集文字分析_LDA分析](https://rpubs.com/RitaTang/text_simpsons_lda)
